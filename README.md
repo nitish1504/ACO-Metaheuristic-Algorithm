@@ -2,7 +2,7 @@
 
 ## Overview
 
-Ant Colony Optimization (ACO) is an innovative and robust optimization algorithm inspired by the foraging behavior of ants in nature. Developed by Marco Dorigo in the early 1990s, ACO simulates how ants find the shortest paths to food sources using pheromone trails. This nature-inspired approach has proven highly effective in solving a wide range of complex optimization problems.
+Ant Colony Optimization (ACO) is a metaheuristic inspired by real-world ant behavior, where ants communicate via pheromone trails to find optimal paths. Introduced by Marco Dorigo in the 1990s, ACO has become a robust and adaptable method for solving complex optimization problems like routing, scheduling, and resource allocation.
 
 ![](imgs/img2.png)
 
